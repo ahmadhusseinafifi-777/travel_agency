@@ -11,5 +11,4 @@
 ---
 ## Instructor
 **[Sarah Besher]**
----
-git[https://github.com/ahmadhusseinafifi-777/travel_agency]
+
