@@ -12,4 +12,4 @@
 ## Instructor
 **[Sarah Besher]**
 ---
-git[https://github.com/ahmadhusseinafifi-777/travel_agency/edit/main/README.md]
+git[https://github.com/ahmadhusseinafifi-777/travel_agency]
